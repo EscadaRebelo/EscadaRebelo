@@ -1,4 +1,4 @@
-# 🏄‍♂️ Rodrigo Rebelo
+# 👨‍💻 Rodrigo Rebelo
 
 **`Front-End / Mobile Developer`**
 
