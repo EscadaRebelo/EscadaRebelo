@@ -8,7 +8,7 @@ Over the past years i learned to work with several programming languages and man
 Over time i developed a stronger taste for Front-End and mobile development, and so, i decided to further increase my knowledge and capabilities in this topic by self-teaching and by completing a few online courses in this area.
 Since then i've been developing my own Web & mobile apps and working on a few personal projects that will hopefully come out in a foreseeable future.
 
-### 🧰 Languages and Tools
+### 🖥️ Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
