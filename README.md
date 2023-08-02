@@ -49,7 +49,3 @@ While working with them, I developed a project called "Monitoring platform and i
  <summary><h3>🎓 Online Courses Certificates</h3></summary>
  <img align="left" alt="React" width="400px" style="padding-right:10px;" src="https://i.imgur.com/8qn39jy.jpg" />
  <img align="left" alt="Flutter" width="400px" style="padding-right:10px;" src="https://i.imgur.com/5nreflz.jpg" />
-  
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
