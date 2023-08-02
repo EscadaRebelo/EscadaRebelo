@@ -6,7 +6,7 @@ I'm a student finalist in Computer Science, currently seeking for a place to app
 Allways had the will and desire of beeing able to develop my own apps and creating different projects, so i decided to go to university in order to learn more about the area and follow that passion.
 Over the past years i learned to work with several programming languages and many different software development tools, that gave me the skills required to follow a career in this area.
 Over time i developed a stronger taste for Front-End and mobile development, and so, i decided to further increase my knowledge and capabilities in this topic by self-teaching and by completing a few online courses in this area.
-Since then i've been developing my own Web & mobile apps and working on a few personal projects that will hopefully come out in a foreseeable future.
+Since then i've been developing my own Web & mobile apps and working on a few personal projects that will come out in a foreseeable future.
 
 ### 🖥️ Languages and Tools
 
