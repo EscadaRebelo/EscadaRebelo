@@ -2,7 +2,7 @@
 
 **`Front-End / Mobile Developer`**
 
-I'm a student finalist in Computer Science, currently seeking for a place to apply and further enhance my knowledge and skills.
+Computer Science graduate, currently seeking for a place to apply and further enhance my knowledge and skills.
 Always had the will and desire of being able to develop my own apps and creating different projects, so i decided to go to university in order to learn more about the area and follow that passion.
 Over the past years i learned to work with several programming languages and many different software development tools, that gave me the skills required to follow a career in this area.
 Over time i developed a stronger taste for Front-End and mobile development, and so, i decided to further increase my knowledge and capabilities in this topic by self-teaching and by completing a few online courses in this area.
